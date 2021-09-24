@@ -4,5 +4,5 @@ As a beginner to practice C++. And try to familiar with OOP deeply.
 <ol>
 <li>Parent Class: Employee</li>
 <li>Abstract Class: AbstractEmployee</li>
-<li>Teacher, Developer</li>
+<li>Inheritance Class: Teacher, Developer</li>
 </ol>
